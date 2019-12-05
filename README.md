@@ -2,8 +2,6 @@
 
 I built a book recommender system by using natural language processing to preprocess book description and user ratings followed by building an unsupervised learning model to provide book recommendations to users. The model was then used to build a flask app.
 
-![alt text](https://raw.githubusercontent.com/sonamthakkar/Capstone/Images/web_page)
-
 ### 1.Executive summary
 
 Goodreads is a social cataloging website where the users can search its database to find book reviews, give ratings and suggestions along with creating their own reading list. A recommender system is an algorithm which uses gradient descent to calculate the ratings which users would have highly rated. 
