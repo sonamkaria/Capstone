@@ -1,6 +1,6 @@
 ## Problem statement
 
-My goal for this capstone is to use the ratings and book descriptions for books using unsupervised learning and Natural language processing techniques in order to build a recommender system.
+I built a book recommender system by using natural language processing to preprocess book description and user ratings followed by building an unsupervised learning model to provide book recommendations to users
 
 ### 1.Executive summary
 
