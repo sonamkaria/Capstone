@@ -1,6 +1,8 @@
 ## Problem statement
 
-I built a book recommender system by using natural language processing to preprocess book description and user ratings followed by building an unsupervised learning model to provide book recommendations to users
+I built a book recommender system by using natural language processing to preprocess book description and user ratings followed by building an unsupervised learning model to provide book recommendations to users. The model was then used to build a flask app.
+
+![alt text](https://raw.githubusercontent.com/sonamthakkar/Capstone/Images/web_page)
 
 ### 1.Executive summary
 
